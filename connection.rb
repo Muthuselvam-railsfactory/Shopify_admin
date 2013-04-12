@@ -2,5 +2,5 @@
 require 'rubygems'
 require 'csv'    
 require 'shopify_api'
-#ShopifyAPI::Base.site = "https://selva2us:f2f4fbf5268772bac044a6d424b8be1b@shopify-arts.myshopify.com/admin"
-ShopifyAPI::Base.site = "https://3401d711a123fdb7a6a797d381be26570c098:111675fcdc143918847b98234e66c5e4aas@selva-logo.myshopify.com/admin"
+ShopifyAPI::Base.site = "https://apikey:password@domain.myshopify.com/admin"
+
