@@ -1,1 +1,1 @@
-This git hub we can used to know about how shopifyapi is working and through our ruby code how do access that?.
+This git hub we can use to know about how shopifyapi is working through our ruby code and how do access that?.
